@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background: linear-gradient(#e75480 0%, #CF9FFF 100%);
+    background-repeat: no-repeat;
+}
+
+#bunny-image {
+    width: 500px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-shadow: 2px 2px #7F00FF;
+
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    text-shadow: 2px 2px #fbaed2;
+    color: #9400d3;
+}
+
+.links: hover {
+    background-color: #f8de7e;
+
+
+}
+
+
